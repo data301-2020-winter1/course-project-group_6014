@@ -1,0 +1,1 @@
+This folder contains Senja's data analysis

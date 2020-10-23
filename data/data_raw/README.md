@@ -1,0 +1,1 @@
+This folder contains the data after we have processed it (ex: removed certain components and/or sorted it)

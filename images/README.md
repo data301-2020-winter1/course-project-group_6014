@@ -1,0 +1,1 @@
+This folder contains any external images we may need for our project. 

@@ -1,0 +1,1 @@
+This folder contains our raw data exactly as it was when we downloaded it from the internet.
