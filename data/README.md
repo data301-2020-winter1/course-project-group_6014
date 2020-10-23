@@ -1,1 +1,1 @@
-This parent folder contains to sub-fodlers: raw and processed data
+This parent folder contains two sub-folders: raw and processed data
