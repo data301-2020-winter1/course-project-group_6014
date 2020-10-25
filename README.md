@@ -17,7 +17,7 @@ This dataset was collected in 2016 using a "learner activity tracking" tool (xAD
 
 - Person 1: Senja Lieuwen - I am a psychology student and am currently completing my yoga teacher training! 
 - Person 2: Anamica Sunderaswara - I am a 2nd year computer science student, from Toronto, Ontario and I love photography!
-- Person 3: one sentence about you!
+- Person 3: Shila Rahman - I am a third year computer science student, and I love travelling!
 
 ## References
 Yamarik, S. (2007). Does cooperative learning improve student learning outcomes? The Journal of Economic Education, 38(3), 259-277. doi:10.3200/jece.38.3.259-277
