@@ -7,5 +7,6 @@ This file contains the code to load our data into a dataframe
 
 ### Milestone 2 ###
 This file contains: 
+
     - Method chaining and program creation
     - EDA (*Exploratory Data Analysis*)
