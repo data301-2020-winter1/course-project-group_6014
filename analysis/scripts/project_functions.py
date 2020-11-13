@@ -3,7 +3,7 @@ import numpy as np
 
 def load_process_data(path_to_csv):
 
-    # Method Chain 1 (load data, drop columns, and address missing data)
+    # Method Chain 1 (load data, drop unnecessary columns, and address missing data)
 
     df2 = (
         pd.read_csv(path_to_csv)
